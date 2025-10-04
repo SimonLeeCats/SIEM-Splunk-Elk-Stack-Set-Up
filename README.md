@@ -3,10 +3,11 @@
 This is my first time doing a larger scale homelab so bare with me at some times. 
 
 The first thing I did was to plan it all out in Cisco Packet Tracer. I planned the subnets, the device topology, and the overall strucuture of this home lab.
-All external internet will be passed by pfSense (basically a firewall) and then processed by 2 hosts. The other are two servers, a Ubuntu Server for SIEM/Splunk, and a AD Windows server.
+All external internet will be passed by OPNSense (basically a firewall) and then processed by 2 hosts. The other are two servers, a Ubuntu Server for SIEM/Splunk, and a AD Windows server.
 And the last one is actually a Kali Linux machine, hopefully used to do some pentesting or just general exploitation. 
 
 <img width="769" height="691" alt="NetworkLayout" src="https://github.com/user-attachments/assets/bd4c0fbe-c44d-4599-8c87-2f2ca1c78791" />
+- The firewall is pfSense but i changed it to OPNSense since i struggled in making it work 
 
 Next, was basically the hardest part. It was to set up the devices itself in VMware. It was an actual pain to set all of these up to be working, but since it isn't too relevant I won't go too deep.
 For the endhosts, like Kali Linux,  Ubunutu Desktop, and Windows 10, it was relatively straightfoward. However, the pfSesne (firewall) was an absolute nightmare to set up. 
