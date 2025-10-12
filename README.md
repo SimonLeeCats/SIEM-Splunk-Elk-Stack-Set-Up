@@ -6,7 +6,8 @@ The first thing I did was to plan it all out in Cisco Packet Tracer. I planned t
 All external internet will be passed by OPNSense (basically a firewall) and then processed by 2 hosts. The other are two servers, a Ubuntu Server for SIEM/Splunk, and a AD Windows server.
 And the last one is actually a Kali Linux machine, hopefully used to do some pentesting or just general exploitation. 
 
-<img width="769" height="691" alt="NetworkLayout" src="https://github.com/user-attachments/assets/bd4c0fbe-c44d-4599-8c87-2f2ca1c78791" />
+<img width="709" height="667" alt="image" src="https://github.com/user-attachments/assets/befdd76f-04d4-4327-b86e-dd4c29cfcbec" />
+
 - The firewall is pfSense but i changed it to OPNSense since i struggled in making it work 
 
 Next, was basically the hardest part. It was to set up the devices itself in VMware. It was an actual pain to set all of these up to be working, but since it isn't too relevant I won't go too deep.
@@ -24,6 +25,11 @@ Ubuntu SIEM
 
 Windows Server 2022
 - Password kali4321!
+
+OPNSense
+<img width="685" height="492" alt="image" src="https://github.com/user-attachments/assets/62143eb9-539d-4a90-982c-fb693adba4de" />
+- I put "1.1.1.1" as the name server 
+
 
 
 
