@@ -34,3 +34,30 @@ OPNSense
 
 
 Then
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Setting up Active Directory in Windows Server 2022 
+
+<img width="1011" height="722" alt="image" src="https://github.com/user-attachments/assets/72f804f4-e962-414e-a4ff-dd4171707ef2" />
+<img width="950" height="713" alt="image" src="https://github.com/user-attachments/assets/41639e2c-05aa-446f-a5b0-a1440ffa0f2f" />
+<img width="1057" height="819" alt="image" src="https://github.com/user-attachments/assets/8d166374-6547-4df3-821b-a3243ce5bba2" />
+I gave the domain name of "server.org"  with a DSRM password of kali4321!
+
+
+
+
+
