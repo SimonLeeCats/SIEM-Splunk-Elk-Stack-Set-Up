@@ -56,6 +56,12 @@ Setting up Active Directory in Windows Server 2022
 <img width="950" height="713" alt="image" src="https://github.com/user-attachments/assets/41639e2c-05aa-446f-a5b0-a1440ffa0f2f" />
 <img width="1057" height="819" alt="image" src="https://github.com/user-attachments/assets/8d166374-6547-4df3-821b-a3243ce5bba2" />
 I gave the domain name of "server.org"  with a DSRM password of kali4321!
+<img width="1384" height="800" alt="image" src="https://github.com/user-attachments/assets/454c4278-b20a-47d2-94b4-ce8b43f002c0" />
+<img width="798" height="426" alt="image" src="https://github.com/user-attachments/assets/e8741135-132d-4d1f-9629-ee6f7e8da73f" />
+<img width="579" height="640" alt="image" src="https://github.com/user-attachments/assets/fa4e2ac9-0a39-4f7a-9634-c81d168e1304" />
+
+
+
 
 
 
